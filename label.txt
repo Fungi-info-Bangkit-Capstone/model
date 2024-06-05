@@ -1,0 +1,10 @@
+amanita
+boletus_edulis
+boletus_reticulatus
+flammulina_velutipes
+hericium_coralloides
+lactarius_deliciosus
+laetiporus_sulphureus
+phellinus_igniarius
+pleurotus_ostreatus
+suillus
