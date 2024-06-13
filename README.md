@@ -1,5 +1,4 @@
 # ML-Fungi.Info
-# ML-Fung.info
 
 ## Summary
 
