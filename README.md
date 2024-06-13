@@ -37,4 +37,3 @@ This repository mainly consists of 3 (three) files:
 
 1. Model training stops at the 20th epoch with early stop callbacks after having no increase in the `val_accuracy` value. The value at the last epoch displayed is 0.9121.
 2. The `val_loss` value shows a value that decreases at each epoch and at the end of the epoch it shows the number 0.2804.
-3. 'model3.tflite' is the converted model to use in the mobile app
